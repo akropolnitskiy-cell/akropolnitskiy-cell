@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! 👋
 
-<!--
-**akropolnitskiy-cell/akropolnitskiy-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning to code and currently focusing on Python.  
+I enjoy exploring new ideas, experimenting with code, and building small projects.
 
-Here are some ideas to get you started:
+### Currently
+- 🐍 Learning Python
+- 🛠️ Practicing by building personal projects
+- 🌱 Improving step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*Every project is another opportunity to learn.*
