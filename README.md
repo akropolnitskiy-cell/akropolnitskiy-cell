@@ -1,4 +1,4 @@
-# Hi! 👋
+# About Me
 
 I'm learning to code and currently focusing on Python.  
 I enjoy exploring new ideas, experimenting with code, and building small projects.
